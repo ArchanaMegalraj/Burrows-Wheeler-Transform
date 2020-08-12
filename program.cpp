@@ -1,5 +1,5 @@
 #include <algorithm>
-#include < iostream>
+#include <iostream>
 #include <vector>
  
 const int STX = 0x02;
